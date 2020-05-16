@@ -33,7 +33,7 @@
 	</test>
 	<test name="RegUserFromInside">
 		<classes>
-			<class name="page.test.Registration2Test"></class>
+			<class name="page.test.RegistrationFromInsideTest"></class>
 		</classes>
 	</test>
 	<test name="MultiRegUserFromInside">
