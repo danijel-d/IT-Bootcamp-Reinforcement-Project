@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="RegTest">
+		<classes>
+			<class name="page.test.RegistartionTest"></class>
+		</classes>
+	</test>
+	<test name="EditProductTest">
+		<classes>
+			<class name="page.test.EditProductTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="SignIn">
+		<classes>
+			<class name="page.test.SignInTest"></class>
+		</classes>
+	</test>
+	<test name="Product">
+		<classes>
+			<class name="page.test.ProductTest"></class>
+		</classes>
+	</test>
+	<test name="MultiProduct">
+		<classes>
+			<class name="page.test.MultiProductTest"></class>
+		</classes>
+	</test>
+	<test name="MultiEditProduct">
+		<classes>
+			<class name="page.test.MultiEditProducts"></class>
+		</classes>
+	</test>
+	<test name="RegUserFromInside">
+		<classes>
+			<class name="page.test.Registration2Test"></class>
+		</classes>
+	</test>
+	<test name="MultiRegUserFromInside">
+		<classes>
+			<class name="page.test.MultiUserRegFromInside"></class>
+		</classes>
+	</test>
+</suite> <!-- Suite -->

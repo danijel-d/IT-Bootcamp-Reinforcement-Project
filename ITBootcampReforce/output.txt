@@ -1,0 +1,15 @@
+firstName`0Delphia
+fullName`Carmel Grant
+HurryPoter`Sturgis Podmore
+firstName`1Amie
+fullName`Marie Sauer
+HurryPoter`Mundungus Fletcher
+firstName`2Agustin
+fullName`Benedict Dickinson
+HurryPoter`Alicia Spinnet
+firstName`3Hortense
+fullName`Miss Giovanna Grimes
+HurryPoter`Helena Ravenclaw (The Grey Lady)
+firstName`4Kiarra
+fullName`Gennaro Legros
+HurryPoter`Mrs. Norris
